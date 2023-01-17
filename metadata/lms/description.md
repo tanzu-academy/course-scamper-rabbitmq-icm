@@ -1,0 +1,1 @@
+This course provides a deep dive into how to install, configure, and develop applications which leverage RabbitMQ messaging.

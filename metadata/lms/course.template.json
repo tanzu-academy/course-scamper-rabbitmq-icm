@@ -1,0 +1,16 @@
+{
+    "id": "tanzu-scamper",
+    "slug": "rabbitmq-icm",
+    "title": "VMware Tanzu RabbitMQ: Install, Configure, Manage",
+    "status": "unlisted",
+    "level": "Beginner",
+    "settings": {
+        "thumbnail": "",
+        "foo": "bar",
+        "debug.version": "${GITHUB_REF_NAME}",
+        "debug.commit": "${GITHUB_SHA}",
+        "debug.updated": "${DEBUG_DATE}",
+        "debug.who": "${GITHUB_ACTOR}",
+        "debug.github-workflow": "${GITHUB_WORKFLOW}"
+    }
+}

@@ -1,0 +1,19 @@
+name: Deploy Release to Staging
+run-name: Deploy ${{ github.ref_name }} to Staging
+concurrency: deploy-staging
+on:
+  workflow_dispatch:
+jobs:
+  deployment:
+    name: Deploy to Staging
+    environment: staging
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Deploy to Penguin
+        env:
+          PENGUINCTL_APIURL: ${{ secrets.PENGUINCTL_APIURL }}
+          PENGUINCTL_APITOKEN: ${{ secrets.PENGUINCTL_APITOKEN }}
+        run: |
+          make deploy-lms
