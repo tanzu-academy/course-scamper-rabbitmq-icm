@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-02-lesson-07",
+  "slug": "durability-with-the-mnesia-database",
+  "title": "Durability with the Mnesia database",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

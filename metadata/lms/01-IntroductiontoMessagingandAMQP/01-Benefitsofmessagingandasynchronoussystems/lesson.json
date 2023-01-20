@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-01-lesson-01",
+  "slug": "benefits-of-messaging-and-asynchronous-systems",
+  "title": "Benefits of messaging and asynchronous systems",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

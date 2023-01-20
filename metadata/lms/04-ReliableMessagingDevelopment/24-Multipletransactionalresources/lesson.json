@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-04-lesson-24",
+  "slug": "multiple-transactional-resources",
+  "title": "Multiple transactional resources",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-02-lesson-09",
+  "slug": "web-management-console",
+  "title": "Web management console",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

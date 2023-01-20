@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-11-lesson-50",
+  "slug": "management-api",
+  "title": "Management API",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

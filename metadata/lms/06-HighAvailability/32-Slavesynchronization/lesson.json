@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-06-lesson-32",
+  "slug": "slave-synchronization",
+  "title": "Slave synchronization",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-01-lesson-03",
+  "slug": "introduction-to-amqp",
+  "title": "Introduction to AMQP",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

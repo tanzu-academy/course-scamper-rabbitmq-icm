@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-01-lesson-04",
+  "slug": "rabbitmq-case-studies",
+  "title": "RabbitMQ case studies",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-04-lesson-21",
+  "slug": "amqp-transactions",
+  "title": "AMQP transactions",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

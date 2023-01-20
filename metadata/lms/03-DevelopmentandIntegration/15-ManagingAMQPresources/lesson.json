@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-03-lesson-15",
+  "slug": "managing-amqp-resources",
+  "title": "Managing AMQP resources",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

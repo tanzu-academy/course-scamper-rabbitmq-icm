@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-08-lesson-39",
+  "slug": "federation",
+  "title": "Federation",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

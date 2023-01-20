@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-05-lesson-26",
+  "slug": "creating-a-cluster",
+  "title": "Creating a cluster",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

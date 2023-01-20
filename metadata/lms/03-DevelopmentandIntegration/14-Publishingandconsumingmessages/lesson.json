@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-03-lesson-14",
+  "slug": "publishing-and-consuming-messages",
+  "title": "Publishing and consuming messages",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

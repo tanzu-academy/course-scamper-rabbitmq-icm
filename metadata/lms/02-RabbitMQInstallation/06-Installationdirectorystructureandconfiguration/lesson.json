@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-02-lesson-06",
+  "slug": "installation-directory-structure-and-configuration",
+  "title": "Installation, directory structure, and configuration",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}
