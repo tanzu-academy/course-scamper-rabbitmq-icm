@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-05-lesson-25",
+  "slug": "setting-up-a-rabbitmq-cluster-lab",
+  "title": "Setting Up A RabbitMQ Cluster LAB",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

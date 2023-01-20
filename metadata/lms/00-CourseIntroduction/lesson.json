@@ -1,0 +1,15 @@
+{
+  "id": "ID-lesson-00",
+  "slug": "course-introduction",
+  "title": "Course Introduction",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

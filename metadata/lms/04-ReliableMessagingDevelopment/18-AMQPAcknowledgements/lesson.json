@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-04-lesson-18",
+  "slug": "amqp-acknowledgements",
+  "title": "AMQP Acknowledgements",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

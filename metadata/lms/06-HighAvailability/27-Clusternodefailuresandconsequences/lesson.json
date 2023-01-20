@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-06-lesson-27",
+  "slug": "cluster-node-failures-and-consequences",
+  "title": "Cluster node failures and consequences",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

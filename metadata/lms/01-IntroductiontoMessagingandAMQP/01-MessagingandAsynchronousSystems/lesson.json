@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-01-lesson-01",
+  "slug": "messaging-and-asynchronous-systems",
+  "title": "Messaging and Asynchronous Systems",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

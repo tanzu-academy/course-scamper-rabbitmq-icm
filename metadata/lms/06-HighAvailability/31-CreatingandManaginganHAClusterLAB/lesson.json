@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-06-lesson-31",
+  "slug": "creating-and-managing-an-ha-cluster-lab",
+  "title": "Creating and Managing an HA Cluster LAB",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

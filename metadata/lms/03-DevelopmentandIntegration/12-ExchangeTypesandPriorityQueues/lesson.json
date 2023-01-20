@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-03-lesson-12",
+  "slug": "exchange-types-and-priority-queues",
+  "title": "Exchange Types and Priority Queues",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

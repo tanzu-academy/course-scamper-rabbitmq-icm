@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-03-lesson-11",
+  "slug": "client-amqp-resource-management",
+  "title": "Client AMQP Resource Management",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

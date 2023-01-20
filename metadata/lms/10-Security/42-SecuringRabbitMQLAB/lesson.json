@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-10-lesson-42",
+  "slug": "securing-rabbitmq-lab",
+  "title": "Securing RabbitMQ LAB",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

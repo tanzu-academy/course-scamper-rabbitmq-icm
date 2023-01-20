@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-08-lesson-33",
+  "slug": "rabbitmq-plugins-introduction-and-ldap-authentication",
+  "title": "RabbitMQ plugins introduction and LDAP Authentication",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

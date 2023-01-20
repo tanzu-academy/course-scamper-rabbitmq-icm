@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-06-lesson-30",
+  "slug": "failover-handling-for-the-client",
+  "title": "Failover handling for the client",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

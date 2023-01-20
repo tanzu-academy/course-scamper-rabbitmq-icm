@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-07-lesson-32",
+  "slug": "quorum-queues",
+  "title": "Quorum Queues",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

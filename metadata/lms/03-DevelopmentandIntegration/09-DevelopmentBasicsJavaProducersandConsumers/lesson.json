@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-03-lesson-09",
+  "slug": "development-basics---java-producers-and-consumers",
+  "title": "Development Basics - Java Producers and Consumers",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

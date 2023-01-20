@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-03-lesson-13",
+  "slug": "message-routing-lab-part-1-exchange-types-and-bindings",
+  "title": "Message Routing LAB (Part 1: Exchange Types and Bindings)",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

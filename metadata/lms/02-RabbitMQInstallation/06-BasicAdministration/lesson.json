@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-02-lesson-06",
+  "slug": "basic-administration",
+  "title": "Basic Administration",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}

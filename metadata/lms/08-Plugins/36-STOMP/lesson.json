@@ -1,0 +1,15 @@
+{
+  "id": "tanzu-scamper-module-08-lesson-36",
+  "slug": "stomp",
+  "title": "STOMP",
+  "status": "live",
+  "type": "video",
+  "duration": 0,
+  "instructors": [
+    "tanzu-sergi-almar"
+  ],
+  "settings": {
+    "vimeo": "",
+    "vimeoAutocomplete": true
+  }
+}
