@@ -4,12 +4,12 @@
   "title": "Securing RabbitMQ LAB",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 922,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790907004",
     "vimeoAutocomplete": true
   }
 }

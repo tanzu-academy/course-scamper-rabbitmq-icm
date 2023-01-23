@@ -4,12 +4,12 @@
   "title": "Message Routing LAB (Part 1: Exchange Types and Bindings)",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 688,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790842747",
     "vimeoAutocomplete": true
   }
 }

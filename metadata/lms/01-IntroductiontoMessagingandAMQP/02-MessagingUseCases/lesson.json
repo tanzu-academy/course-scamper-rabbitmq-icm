@@ -4,12 +4,12 @@
   "title": "Messaging Use Cases",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 330,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790838900",
     "vimeoAutocomplete": true
   }
 }

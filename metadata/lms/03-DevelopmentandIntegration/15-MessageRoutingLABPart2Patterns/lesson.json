@@ -4,12 +4,12 @@
   "title": "Message Routing LAB (Part 2: Patterns)",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 359,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790843539",
     "vimeoAutocomplete": true
   }
 }

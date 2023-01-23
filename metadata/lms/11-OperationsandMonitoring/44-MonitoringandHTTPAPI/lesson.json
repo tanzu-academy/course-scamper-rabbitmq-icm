@@ -4,12 +4,12 @@
   "title": "Monitoring and HTTP API",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 778,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790908082",
     "vimeoAutocomplete": true
   }
 }

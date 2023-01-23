@@ -4,12 +4,12 @@
   "title": "Creating and Managing an HA Cluster LAB",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 1304,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790859118",
     "vimeoAutocomplete": true
   }
 }

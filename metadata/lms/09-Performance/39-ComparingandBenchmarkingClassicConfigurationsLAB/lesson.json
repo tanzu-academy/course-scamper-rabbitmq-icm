@@ -4,12 +4,12 @@
   "title": "Comparing and Benchmarking Classic Configurations LAB",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 900,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790905892",
     "vimeoAutocomplete": true
   }
 }

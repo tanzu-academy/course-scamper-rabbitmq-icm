@@ -4,12 +4,12 @@
   "title": "Network partitions",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 417,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790856874",
     "vimeoAutocomplete": true
   }
 }

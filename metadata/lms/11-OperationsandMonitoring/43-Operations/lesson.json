@@ -4,12 +4,12 @@
   "title": "Operations",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 589,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790907481",
     "vimeoAutocomplete": true
   }
 }

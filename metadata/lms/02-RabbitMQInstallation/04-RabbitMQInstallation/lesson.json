@@ -4,12 +4,12 @@
   "title": "RabbitMQ Installation",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 524,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790839431",
     "vimeoAutocomplete": true
   }
 }

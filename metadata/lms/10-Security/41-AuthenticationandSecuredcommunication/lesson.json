@@ -4,12 +4,12 @@
   "title": "Authentication and Secured communication",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 493,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790906650",
     "vimeoAutocomplete": true
   }
 }

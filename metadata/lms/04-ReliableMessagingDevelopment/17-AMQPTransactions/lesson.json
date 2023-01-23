@@ -4,12 +4,12 @@
   "title": "AMQP Transactions",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 209,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790852866",
     "vimeoAutocomplete": true
   }
 }

@@ -4,12 +4,12 @@
   "title": "AMQP Acknowledgements",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 691,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "https://vimeo.com/790853090",
     "vimeoAutocomplete": true
   }
 }
