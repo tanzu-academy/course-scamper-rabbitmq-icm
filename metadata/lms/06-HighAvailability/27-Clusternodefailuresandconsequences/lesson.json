@@ -4,12 +4,12 @@
   "title": "Cluster node failures and consequences",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 252,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790857273",
     "vimeoAutocomplete": true
   }
 }

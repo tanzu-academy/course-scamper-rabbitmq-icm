@@ -4,12 +4,12 @@
   "title": "STOMP",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 303,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790904331",
     "vimeoAutocomplete": true
   }
 }

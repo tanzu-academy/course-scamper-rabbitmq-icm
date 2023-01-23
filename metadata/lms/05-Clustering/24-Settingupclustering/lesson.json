@@ -4,12 +4,12 @@
   "title": "Setting up clustering",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 630,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790856009",
     "vimeoAutocomplete": true
   }
 }

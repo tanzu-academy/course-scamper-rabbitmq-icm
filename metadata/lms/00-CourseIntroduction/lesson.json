@@ -4,12 +4,12 @@
   "title": "Course Introduction",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 266,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790838321",
     "vimeoAutocomplete": true
   }
 }

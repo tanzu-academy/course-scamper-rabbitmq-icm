@@ -4,12 +4,12 @@
   "title": "RabbitMQ plugins introduction and LDAP Authentication",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 211,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790903411",
     "vimeoAutocomplete": true
   }
 }

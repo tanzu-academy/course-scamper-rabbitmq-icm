@@ -4,12 +4,12 @@
   "title": "Federation",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 5920,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790903841",
     "vimeoAutocomplete": true
   }
 }

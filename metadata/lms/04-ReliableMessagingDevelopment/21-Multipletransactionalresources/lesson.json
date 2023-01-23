@@ -4,12 +4,12 @@
   "title": "Multiple transactional resources",
   "status": "live",
   "type": "video",
-  "duration": 0,
+  "duration": 380,
   "instructors": [
     "tanzu-sergi-almar"
   ],
   "settings": {
-    "vimeo": "",
+    "vimeo": "790854795",
     "vimeoAutocomplete": true
   }
 }
