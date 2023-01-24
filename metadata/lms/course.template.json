@@ -5,7 +5,7 @@
     "status": "unlisted",
     "level": "Beginner",
     "settings": {
-        "thumbnail": "",
+        "thumbnail": "none",
         "foo": "bar",
         "debug.version": "${GITHUB_REF_NAME}",
         "debug.commit": "${GITHUB_SHA}",
