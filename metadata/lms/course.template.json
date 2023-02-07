@@ -4,6 +4,7 @@
     "title": "VMware Tanzu RabbitMQ: Install, Configure, Manage",
     "status": "unlisted",
     "level": "Beginner",
+    "instructors": [ "tanzu-sergi-almar" ],
     "settings": {
         "thumbnail": "none",
         "foo": "bar",
