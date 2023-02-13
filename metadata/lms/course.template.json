@@ -7,7 +7,7 @@
     "order": 800,
     "instructors": [ "tanzu-sergi-almar" ],
     "settings": {
-        "thumbnail": "none",
+        "thumbnail": "https://raw.githubusercontent.com/vmware-tanzu-learning/tanzu-academy-public/main/images/thumbnails/ta-course/course-thumbnail-clouds.png",
         "foo": "bar",
         "debug.version": "${GITHUB_REF_NAME}",
         "debug.commit": "${GITHUB_SHA}",
