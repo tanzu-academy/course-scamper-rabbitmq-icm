@@ -2,8 +2,9 @@
     "id": "tanzu-scamper",
     "slug": "rabbitmq-icm",
     "title": "VMware Tanzu RabbitMQ: Install, Configure, Manage",
-    "status": "unlisted",
+    "status": "live",
     "level": "Beginner",
+    "order": 800,
     "instructors": [ "tanzu-sergi-almar" ],
     "settings": {
         "thumbnail": "none",
