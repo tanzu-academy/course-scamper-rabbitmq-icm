@@ -9,11 +9,12 @@
     "topics": ["tanzu-rabbitmq"],
     "settings": {
         "thumbnail": "https://raw.githubusercontent.com/vmware-tanzu-learning/tanzu-academy-public/main/images/thumbnails/ta-course/course-thumbnail-clouds.png",
-        "foo": "bar",
+        "pro": true,
         "debug.version": "${GITHUB_REF_NAME}",
         "debug.commit": "${GITHUB_SHA}",
         "debug.updated": "${DEBUG_DATE}",
         "debug.who": "${GITHUB_ACTOR}",
         "debug.github-workflow": "${GITHUB_WORKFLOW}"
-    }
+    },
+    "entitlements": [ "pro" ]
 }

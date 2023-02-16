@@ -11,5 +11,6 @@
   "settings": {
     "vimeo": "790838582",
     "vimeoAutocomplete": true
-  }
+  },
+  "entitlements": [ "auth" ]
 }
