@@ -3,6 +3,8 @@ run-name: Deploy ${{ github.ref_name }} to Production
 concurrency: deploy-production
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [deploy-production]
 jobs:
   deployment:
     name: Deploy to Production

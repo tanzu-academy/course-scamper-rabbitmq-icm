@@ -3,6 +3,8 @@ run-name: Deploy ${{ github.ref_name }} to Staging
 concurrency: deploy-staging
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [deploy-staging]
 jobs:
   deployment:
     name: Deploy to Staging
