@@ -6,7 +6,7 @@
     "level": "Beginner",
     "order": 800,
     "instructors": [ "tanzu-sergi-almar" ],
-    "topics": ["tanzu-rabbitmq"],
+    "topics": ["tanzu-rabbitmq", "tanzu-data", "tanzu-platform"],
     "settings": {
         "thumbnail": "https://raw.githubusercontent.com/vmware-tanzu-learning/tanzu-academy-public/main/images/thumbnails/ta-course/course-thumbnail-rabbitmq-icm.svg",
         "pro": true,
