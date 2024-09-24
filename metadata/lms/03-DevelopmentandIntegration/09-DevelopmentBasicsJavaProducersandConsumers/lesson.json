@@ -10,6 +10,8 @@
   ],
   "settings": {
     "vimeo": 790841089,
-    "vimeoAutocomplete": true
+    "vimeoAutocomplete": true,
+    "brightcove": 6362370084112,
+    "brightcoveAutocomplete": true
   }
 }
