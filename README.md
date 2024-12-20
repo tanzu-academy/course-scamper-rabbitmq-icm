@@ -1,3 +1,5 @@
-# course-scamper-rabbitmq-icm
+# VMware Tanzu RabbitMQ: Install, Configure, Manage
 
-Taken originally from [VCCL](https://learning.customerconnect.vmware.com/oltpublish/site/program.do?dispatch=showProgramMember&source=mylearn&programSessionId=e9a84c64-d32a-11eb-8643-0cc47adeb5f8).
+Take this course on Tanzu Academy at the link below:
+
+https://tanzu.academy/courses/rabbitmq-icm
