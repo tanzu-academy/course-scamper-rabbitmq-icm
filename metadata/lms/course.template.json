@@ -16,5 +16,5 @@
         "debug.who": "${GITHUB_ACTOR}",
         "debug.github-workflow": "${GITHUB_WORKFLOW}"
     },
-    "entitlements": [ "pro" ]
+    "entitlements": [ "auth" ]
 }
